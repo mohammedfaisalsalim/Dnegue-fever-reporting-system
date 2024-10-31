@@ -1,0 +1,7 @@
+C:\Users\seren\source\repos\Assignment_DSTR\x64\Debug\Assignment_DSTR.exe
+C:\Users\user-pc\Desktop\APU\Second Year Second Sem\Data Structures\Assignment\code\Assignment_DSTR\x64\Debug\Assignment_DSTR.exe
+E:\C++\2023-11-03 Assignment B\x64\Debug\Assignment_DSTR.exe
+C:\Users\Faisal Salim\Downloads\Degree level 2 sem 2\c++ code\x64\Debug\Assignment_DSTR.exe
+C:\Users\seren\source\repos\Final Code\x64\Debug\Assignment_DSTR.exe
+C:\Users\seren\source\repos\00 FINALIZE\x64\Debug\Assignment_DSTR.exe
+C:\Users\Faisal Salim\Downloads\Degree level 2 sem 2\fin c\00 FINALIZE\x64\Debug\Assignment_DSTR.exe

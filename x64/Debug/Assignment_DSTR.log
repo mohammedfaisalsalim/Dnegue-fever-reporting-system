@@ -1,0 +1,4 @@
+﻿  Maincpp.cpp
+C:\Users\Faisal Salim\Downloads\Degree level 2 sem 2\fin c\00 FINALIZE\User.h(145): warning C4715: 'yearToBitmask': not all control paths return a value
+  LINK : C:\Users\Faisal Salim\Downloads\Degree level 2 sem 2\fin c\00 FINALIZE\x64\Debug\Assignment_DSTR.exe not found or not built by the last incremental link; performing full link
+  Assignment_DSTR.vcxproj -> C:\Users\Faisal Salim\Downloads\Degree level 2 sem 2\fin c\00 FINALIZE\x64\Debug\Assignment_DSTR.exe
